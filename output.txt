@@ -1,0 +1,2 @@
+		-----------------------------------------:		Electricity Billing System by Black Eagle:		-----------------------------------------:Enter the Name:Enter the Meter number:Enter the current month reading:Enter the last month reading:		-----------------------------------------:			Electricity Billing:		:-----------------------------------------:			Name :			Meter Number :			Current Month reading :			Last Month reading :			Unit :			Charge :		-----------------------------------------
+::::::::::: sdjvf: sdvs: 300: 120: 180: 380:

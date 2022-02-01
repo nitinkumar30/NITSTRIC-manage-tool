@@ -1,0 +1,6 @@
+			Name Nitin Kumar
+			Meter_Number EJ0001
+			Current_Month_reading 340
+			Last_Month_reading 150
+			Unit 190
+			Charge 390
