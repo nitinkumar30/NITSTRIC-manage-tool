@@ -2,6 +2,10 @@
 
 > Simple Electricity Management System using shell scripting  
 
+# Working
+
+![shell_scripting_electricity_bill_management](https://user-images.githubusercontent.com/40369168/152051893-de75f1a1-0302-4c5d-a850-3d19a147ac6d.gif)
+
 # Tools/Software
 
 > 1. VS Code
