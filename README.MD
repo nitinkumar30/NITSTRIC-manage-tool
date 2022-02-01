@@ -10,7 +10,7 @@
 # How to run code
 
 **First run original code using the command** ```./script1.sh | tee out.txt```  
-**Then give necessary inputs***  
+**Then give necessary inputs**  
 **Then run the code to convert txt file to html file using the command** ```./table.sh < out.txt > out.html```  
 
 # Author
