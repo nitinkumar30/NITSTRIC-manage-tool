@@ -1,0 +1,35 @@
+/* Program made by Black Eagle */
+
+body{
+    background-color: aquamarine;
+}
+
+.title{
+    font-size: 30px;
+    color: deeppink;
+}
+
+h1{
+    font-size: 45px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: tomato;
+    
+}
+
+h2{
+    color: sienna;
+
+}
+
+table{
+    border: 3px solid blue;
+    background-color: darkorchid;
+}
+
+td{
+    border: 3px solid blue;
+}
+
+footer{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
