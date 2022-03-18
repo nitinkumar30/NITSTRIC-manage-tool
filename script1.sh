@@ -39,4 +39,3 @@ echo $'\t\t\t'Unit                   $unit
 echo $'\t\t\t'Charge                 $charge
 echo $'\t\t'----------------------------------------- 
 
-
