@@ -1,4 +1,4 @@
-# झारखण्ड-बिजली-वितरण-प्रबंध
+# NITSTRIC management tool
 
 > This is a simple Electricity Management System using shell scripting
 
