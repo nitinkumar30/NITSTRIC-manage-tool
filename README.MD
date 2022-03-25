@@ -1,6 +1,6 @@
-# Electricity Management System
+# झारखण्ड-बिजली-वितरण-प्रबंध
 
-> Simple Electricity Management System using shell scripting
+> This is a simple Electricity Management System using shell scripting
 
 # Implementation/Demo
 
